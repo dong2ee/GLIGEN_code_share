@@ -1,0 +1,5 @@
+opencv-python
+imagesize
+numpy
+Pillow
+tqdm
